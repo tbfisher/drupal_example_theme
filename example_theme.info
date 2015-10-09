@@ -1,2 +1,3 @@
 name = Example Theme
+description = Exercise for creating a Theme
 core = 7.x
